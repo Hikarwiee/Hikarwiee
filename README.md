@@ -1,6 +1,4 @@
-<h1 style="font-style: courier;">
 ## I am always figuring things out.
-</h1>
 
 <!--
 **Hikarwiee/Hikarwiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
