@@ -1,4 +1,4 @@
-## Hi there 👋
+## I am always figuring things out. It's my way of saying "I am always ready to learn".
 
 <!--
 **Hikarwiee/Hikarwiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
